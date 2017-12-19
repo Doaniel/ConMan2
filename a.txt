@@ -1,4 +1,3 @@
 apples sweet
 oranges
-kiwis
-carrots
+kiwis carrots
